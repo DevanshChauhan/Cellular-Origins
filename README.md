@@ -171,10 +171,4 @@ This mode can be exited by typing the word  EXIT in the command line.
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 By following the steps above, you will be able to set up, run, and test the Toy Robot Simulator on any system. Feel free to extend the project with more test cases or features, and don't forget to run the tests after any changes!
