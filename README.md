@@ -166,8 +166,9 @@ python3 main.py
 ```
 This would allow the user to interact with robot and give step by step instructions for the same
 The user can type in the location and various commands.
+This mode can be exited by typing the word  EXIT in the command line.
 
-This mode can be exited by typing the EXIT in the command line.
+
 ---
 
 ## License
